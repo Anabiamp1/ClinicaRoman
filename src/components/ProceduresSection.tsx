@@ -31,7 +31,7 @@ const procedures = [
     icon: ArrowUpRight,
     title: "Fios de PDO",
     slug: "fios-de-pdo",
-    desc: "Lifting não cirúrgico que reposiciona tecidos e promove sustentação facial imediata.",
+    desc: "Reposiciona tecidos e promove sustentação facial imediata, estimulando colágeno e melhorando a flacidez.",
   },
   {
     icon: Sparkles,
