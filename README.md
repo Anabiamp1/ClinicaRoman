@@ -1,5 +1,12 @@
 # 🪞 Website Institucional - `Clínica Roman` 
 
+
+![Image](https://github.com/user-attachments/assets/643818c3-de83-4b0d-acc9-3289e92284f9)
+
+
+##
+
+
 ## 🚀 Visão Geral do Projeto
 
 O `Clínica Roman` é um website institucional desenvolvido como projeto freelancer com o objetivo de fortalecer a presença digital da clínica, transmitir credibilidade e facilitar o contato com pacientes.
@@ -50,16 +57,25 @@ Desktop
 
 
 
-| Pasta / Arquivo                                   | Descrição                                                     |
-|---------------------------------------------------|----------------------------------------------------------------|
-| **Análise_Financeira/**                           | Pasta raiz do projeto                                          |
-|  **dados/**                                    | Armazena as bases usadas na análise                           |
-| Informações_e_Indicadores_por_Empresa.xlsx  | Indicadores e métricas de cada empresa                        |
-| Cotações_diárias_por_Empresa.xlsx           | Histórico de preços das ações                                 |
-| **notebooks/**                                | Notebooks utilizados no processo de análise                   |
-| analise_financeira.ipynb                    | Notebook principal da análise                                 |
-| **visualizacoes/**                            | Arquivos de visualização e dashboards                         |
-|  analise_visualizacao.tableau               | Dashboard criado no Tableau                                   |
+| Pasta / Arquivo                | Descrição                                                     |
+|--------------------------------|----------------------------------------------------------------|
+| **Clinica_Roman/**             | Pasta raiz do projeto                                          |
+| **public/**                    | Arquivos públicos e estáticos do site                         |
+| favicon.ico                    | Ícone exibido na aba do navegador                              |
+| **src/**                       | Código-fonte principal da aplicação                            |
+| **assets/**                    | Imagens, ícones e recursos visuais                             |
+| **components/**                | Componentes reutilizáveis (Header, Footer, Cards, etc.)       |
+| **pages/**                     | Páginas principais do site                                     |
+| **styles/**                    | Arquivos de estilização global                                 |
+| App.tsx                        | Componente principal da aplicação                              |
+| main.tsx                       | Ponto de entrada do React                                      |
+| index.css                      | Estilos globais                                                |
+| **configuracoes/**             | Arquivos de configuração do projeto                            |
+| vite.config.ts                 | Configuração do Vite                                           |
+| tailwind.config.ts             | Configuração do TailwindCSS                                    |
+| package.json                   | Dependências e scripts do projeto                              |
+| .gitignore                     | Arquivos ignorados pelo Git                                    |
+| README.md                      | Documentação do projeto                                        |
 
 ##
 
@@ -108,6 +124,7 @@ Desktop
 ##
 
 <a href="https://www.linkedin.com/in/anabeatrizmpramos"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
+
 
 
 
